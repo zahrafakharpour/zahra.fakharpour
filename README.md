@@ -14,4 +14,4 @@
 **ابزارها:** Docker | Git | VS code
 
 ## آمار گیت هاب من
-![GitHub Stats]()
+![GitHub Stats](https://github.com/zahrafakharpour/zahra.fakharpour)
